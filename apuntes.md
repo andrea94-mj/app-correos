@@ -1,7 +1,7 @@
 ## Para iniciar un proyecto de back:
 
 1. Creamos carpeta
-2. init -y
+2. npm init -y
 3. npm i nodemon -D
 4. npm i express cors dotenv
 5. npm i mysql2
